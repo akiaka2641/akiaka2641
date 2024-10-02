@@ -26,7 +26,7 @@ Tech Stack 👩‍💻
 
 #Projects 🚀
 
-1.Business insight 360
+1.[Business insight 360](https://github.com/akiaka2641/powerbi-bussiness_analytics360)
 
 2.Excel Analytics: Extracting Business Insights for AtliQ Hardwares
 
